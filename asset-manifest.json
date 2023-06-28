@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8385425.css",
+    "main.css": "/static/css/main.cbaeb19c.css",
     "main.js": "/static/js/main.9ef0a74e.js",
     "static/media/card.png": "/static/media/card.0b8ff27ace2f4c2b679e.png",
     "static/media/swipePhone.png": "/static/media/swipePhone.aa107846d126b048398a.png",
@@ -54,11 +54,11 @@
     "static/media/footer.svg": "/static/media/footer.093dd4a754786d6fbd14.svg",
     "static/media/ellipse.svg": "/static/media/ellipse.5121b164398b8f8baea4.svg",
     "static/media/blackCircle.svg": "/static/media/blackCircle.4b38baa1a50cafebab9a.svg",
-    "main.c8385425.css.map": "/static/css/main.c8385425.css.map",
+    "main.cbaeb19c.css.map": "/static/css/main.cbaeb19c.css.map",
     "main.9ef0a74e.js.map": "/static/js/main.9ef0a74e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8385425.css",
+    "static/css/main.cbaeb19c.css",
     "static/js/main.9ef0a74e.js"
   ]
 }
